@@ -25,7 +25,7 @@
 #ifdef ESP32
   #include <SPIFFS.h>
 #endif
-#define VERSION "v0.46-gt (ESP8266)"
+#define VERSION "v0.46 (ESP8266)"
 
 // ================================
 //  User Defined values and options
